@@ -5,8 +5,8 @@
 ## Here's the place I learn and code stuff ⚡
 - I'm not working with IT yet, but I'm looking for any opportunity
 - I am currently studying front-end, back-end and recap on essential topics learned during graduation
-- How to reach me: [@gapolli](https://www.linkedin.com/in/gapolli/)
-- Fun fact: I :heart: to learn
+- How to reach me: <a href="https://www.linkedin.com/in/gapolli/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="20px"></a>
+- Fun fact: I :heart: to learn and listen to music a lot
 
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="" align="center">
 
@@ -38,6 +38,8 @@
     </tr>
 </table>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=gapolli&bg_color=130426&color=ffffff&point=2c0957&line=5d378a&area=true&width=500">
+
 ## Here are some tools I like to learn and improve:
 <p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="25px">
@@ -51,3 +53,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="25px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg" alt="R" width="25px">
 </p>
+
+## My musical taste:
+<img src="https://lastfm-recently-played.vercel.app/api?user=gapolli&count=5">
