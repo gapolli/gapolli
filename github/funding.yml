@@ -1,0 +1,9 @@
+# Plataformas suportadas nativamente pelo GitHub
+buy_me_a_coffee: gapolli
+ko_fi: SEU_USUARIO_KO_FI
+patreon: SEU_USUARIO_PATREON
+liberapay: SEU_USUARIO_LIBERAPAY
+issuehunt: SEU_USUARIO_ISSUEHUNT
+
+# Links customizados (para PayPal, PicPay, Pix, site pessoal, etc.)
+custom: ["https://paypal.me", "https://link-do-seu-pix-ou-site.com"]
