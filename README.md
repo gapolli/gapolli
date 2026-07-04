@@ -1,4 +1,4 @@
-# I'm music 🎵 ... and code 🚀
+# # I'm music 🎵 ... and code 🚀
 
 <img src="https://lastfm-recently-played.vercel.app/api?user=gapolli&count=5">
 
@@ -6,7 +6,16 @@
 
 I am an independent developer building low-level systems and complex open-source infrastructure. I am a Systems Analysis and Development graduate with three post-graduate specializations: **IT Management, IT Programming, and Gamification in Education**. 
 
-Although I do not work commercially as a software developer, I dedicate my personal time to engineering decentralized technologies and modular architecture.
+Although I do not work commercially as a software developer, I dedicate my personal time to engineering decentralized technologies, local automations, and modular architecture.
+
+---
+
+### ⚙️ Featured Release: The Automation Cookbook
+I have packaged the exact local automation tools, universal workspace orchestrators, and fail-safe testing pipelines that I used to build and organize my blockchain modules into a high-density, 10-page practical guide typeset in LaTeX.
+
+👉 **[Grab your copy of The Automation Cookbook here!](https://buymeacoffee.com/gapolli/extras)** 📘☕
+
+---
 
 ### 🚀 Main Project: Pluggable Modular Blockchain
 I am currently developing a **native, non-EVM Proof of Authority (PoA) blockchain** featuring a multi-language **WASM smart contract runtime**. 
@@ -25,7 +34,7 @@ I am currently developing a **native, non-EVM Proof of Authority (PoA) blockchai
 ---
 
 ### ☕ Support My Open-Source Journey
-Everything I build is independent, free, and fueled purely by curiosity, technical passion, and coffee. If you find my modular architecture interesting or want to support my development nights, consider buying me a coffee!
+Everything I build is independent, free, and fueled purely by curiosity, technical passion, and coffee. If you find my modular architecture interesting, want to run my local automation recipes, or want to support my development nights, consider buying me a coffee or checking out my premium guides!
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/gapolli)
 
