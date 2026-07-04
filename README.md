@@ -10,10 +10,13 @@ Although I do not work commercially as a software developer, I dedicate my perso
 
 ---
 
-### ⚙️ Featured Release: The Automation Cookbook
-I have packaged the exact local automation tools, universal workspace orchestrators, and fail-safe testing pipelines that I used to build and organize my blockchain modules into a high-density, 10-page practical guide typeset in LaTeX.
+### ⚙️ Featured Release: The Automation Cookbook Series
+I have packaged the exact local automation tools, telemetry systems, and infrastructure scripts that I use to develop, test, and maintain my blockchain modules into a series of high-density practical guides typeset in professional LaTeX.
 
-👉 **[Grab your copy of The Automation Cookbook here!](https://buymeacoffee.com/gapolli/extras)** 📘☕
+* 📘 **[Volume 1: Advanced Python & Bash Recipes](https://buymeacoffee.com/gapolli/e/554075)** — Automated testing, profile synchronization, and automated GitHub documentation tree pipelines.
+* 📊 **[Volume 2: Data Resilience & Telemetry](https://buymeacoffee.com/gapolli/e/554104)** — SQLite WAL hot backups, hardware resource watchdogs, and network socket port unlockers.
+
+👉 **[Explore my full catalog and grab your copies here!](https://buymeacoffee.com/gapolli/extras)**
 
 ---
 
