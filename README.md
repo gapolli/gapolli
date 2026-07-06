@@ -42,4 +42,18 @@ Everything I build is independent, free, and fueled purely by curiosity, technic
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/gapolli)
 
-_Your support helps keep the midnight code flowing!_
+#### 📊 Sponsorship Tiers & Rewards
+
+If you decide to back me via GitHub Sponsors, here is how the matrix of rewards stacks up:
+
+| Tier | Type | Perks & Rewards |
+| :--- | :--- | :--- |
+| **☕ $2 - Espresso Shot** | Monthly / One-time | Digital high-five + Fuels weekend research & coffee stock |
+| **☕🚀 $5 - Filtered Coffee** | Monthly | Offsets local cluster electricity & staging node uptime costs |
+| **📘 $5 - Cookbook Single Vol** | One-time | **1 Digital Volume** of *The Automation Cookbook* |
+| **📚🚀 $13 - Full Trilogy Matrix**| One-time | **All 3 Digital Volumes** + *Bonus Master Orchestrator Pipeline* |
+| **🖥️ $15 - Hardware Contributor** | Monthly | Funds bare-metal replacement parts + **1 Digital Volume** |
+| **🎵🖥️ $50 - Polyphonic Backer** | Monthly | Full Trilogy Access + **Your name/brand credited** in public docs |
+
+_Your support helps keep the midnight code flowing!_ ☕🚀
+
